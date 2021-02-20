@@ -1,0 +1,1 @@
+cognome;nome;data nascita;via residenza;civico residenza;cap residenza;comune residenza;provincia residenza;regione residenza;stato residenza;codice fiscale;via domicilio;civico domicilio;cap domicilio;comune domicilio;provincia domicilio;regione domicilio;stato domicilio;email;telefono
